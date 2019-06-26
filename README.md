@@ -18,7 +18,8 @@ And change the paths (if you want) over here: https://github.com/fgolemo/faceblu
 
 ### How to use
 
-- **zoom / pan:** click-drag and mousewheel
+- **zoom:** mousewheel 
+- **pan:** hold left mouse button and drag 
 - **next image & save:** <kbd>d</kbd> 
 - **prev image:** <kbd>a</kbd>
 - **blur face:** <kbd>w</kbd>, click on center of face, click on top of head
